@@ -12,5 +12,4 @@ public class SqrtServiceTest {
         int actual = service.calcSqrt(a, x);
         Assertions.assertEquals(expected, actual);
     }
-
 }
